@@ -1,0 +1,68 @@
+"place","pop2023","growthRate","area","country","cca3","cca2","ccn3","region","subregion","unMember","officialName","landAreaKm","density","densityMi","Rank","wineProducingCountries_wineProduction","wineProducingCountries_wineProductionGallons"
+356,1428627663,0.00808,3287590,"India","IND","IN",356,"Asia","Southern Asia, South Central Asia",true,"Republic of India",2973190,480.5033,1244.5036,1,20400,5389
+156,1425671352,-0.00015,9706961,"China","CHN","CN",156,"Asia","Eastern Asia",true,"People's Republic of China",9424702.9,151.2696,391.7884,2,1163600,307390
+840,339996563,0.00505,9372610,"United States","USA","US",840,"North America","Northern America",true,"United States of America",9147420,37.1686,96.2666,3,2333900,616551
+76,216422446,0.00515,8515767,"Brazil","BRA","BR",76,"South America","South America, Latin America",true,"Federative Republic of Brazil",8358140,25.8936,67.0645,7,355300,93860
+643,144444359,-0.00186,17098242,"Russia","RUS","RU",643,"Europe","Eastern Europe",true,"Russian Federation",16376870,8.82,22.8439,9,631200,166745
+484,128455567,0.00746,1964375,"Mexico","MEX","MX",484,"North America","Central America, Latin America",true,"United Mexican States",1943950,66.0797,171.1463,10,38700,10223
+231,126527060,0.02551,1104300,"Ethiopia","ETH","ET",231,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Federal Democratic Republic of Ethiopia",1128571.3,112.1126,290.3716,11,1500,396
+392,123294513,-0.0053,377930,"Japan","JPN","JP",392,"Asia","Eastern Asia",true,"Japan",364500,338.2566,876.0845,12,79600,21028
+818,112716598,0.01556,1002450,"Egypt","EGY","EG",818,"Africa","Northern Africa, The Middle East",true,"Arab Republic of Egypt",995450,113.2318,293.2704,14,5200,1373
+792,85816199,0.00557,783562,"Turkey","TUR","TR",792,"Asia","Western Asia, The Middle East",true,"Republic of Turkey",783562,109.5206,283.6584,18,64400,17012
+276,83294633,-0.0009,357114,"Germany","DEU","DE",276,"Europe","Western Europe",true,"Federal Republic of Germany",349390,238.4002,617.4564,19,746200,197125
+826,67736802,0.00338,242900,"United Kingdom","GBR","GB",826,"Europe","Northern Europe",true,"United Kingdom of Great Britain and Northern Ireland",241930,279.9851,725.1615,21,3000,792
+250,64756584,0.00201,551695,"France","FRA","FR",250,"Europe","Western Europe",true,"French Republic",547557,118.2646,306.3052,23,3641900,962088
+710,60414495,0.00869,1221037,"South Africa","ZAF","ZA",710,"Africa","Southern Africa, Sub-Saharan Africa",true,"Republic of South Africa",1213090,49.8022,128.9876,24,1080100,285332
+380,58870762,-0.00282,301336,"Italy","ITA","IT",380,"Europe","Southern Europe",true,"Italian Republic",295717,199.078,515.6121,25,4250000,1122731
+724,47519628,-0.00082,505992,"Spain","ESP","ES",724,"Europe","Southern Europe",true,"Kingdom of Spain",499556.6,95.1236,246.3702,32,3248000,858030
+32,45773884,0.00579,2780400,"Argentina","ARG","AR",32,"South America","South America, Latin America",true,"Argentine Republic",2736690,16.726,43.3203,33,1182100,312277
+12,45606480,0.01566,2381741,"Algeria","DZA","DZ",12,"Africa","Northern Africa",true,"People's Democratic Republic of Algeria",2381741,19.1484,49.5943,34,52000,13736
+124,38781291,0.0085,9984670,"Canada","CAN","CA",124,"North America","Northern America",true,"Canada",8965590,4.3256,11.2032,38,59100,15612
+504,37840044,0.0102,446550,"Morocco","MAR","MA",504,"Africa","Northern Africa",true,"Kingdom of Morocco",446300,84.7861,219.596,39,35900,9483
+804,36744634,-0.07448,603500,"Ukraine","UKR","UA",804,"Europe","Eastern Europe",true,"Ukraine",579400,63.4184,164.2537,41,187200,49453
+860,35163944,0.01549,447400,"Uzbekistan","UZB","UZ",860,"Asia","Central Asia, South Central Asia",true,"Republic of Uzbekistan",440650,79.8002,206.6824,43,38000,10038
+604,34352719,0.0089,1285216,"Peru","PER","PE",604,"South America","South America, Latin America",true,"Republic of Peru",1280000,26.8381,69.5106,45,76500,20209
+450,30325732,0.02411,587041,"Madagascar","MDG","MG",450,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Madagascar",581800,52.124,135.0011,50,8400,2219
+36,26439111,0.01,7692024,"Australia","AUS","AU",36,"Oceania","Australia and New Zealand",true,"Commonwealth of Australia",7692020,3.4372,8.9024,55,1369000,361651
+760,23227014,0.0498,185180,"Syria","SYR","SY",760,"Asia","Western Asia, The Middle East",true,"Syrian Arab Republic",183630,126.4881,327.6042,60,100,26
+642,19892812,0.01188,238391,"Romania","ROU","RO",642,"Europe","Eastern Europe",true,"Romania",230080,86.4604,223.9325,64,431700,114043
+152,19629590,0.00132,756102,"Chile","CHL","CL",152,"South America","South America, Latin America",true,"Republic of Chile",743532,26.4005,68.3772,65,949200,250752
+398,19606633,0.01076,2724900,"Kazakhstan","KAZ","KZ",398,"Asia","Central Asia",true,"Republic of Kazakhstan",2699700,7.2625,18.8099,66,22000,5811
+716,16665409,0.02113,390757,"Zimbabwe","ZWE","ZW",716,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Zimbabwe",386850,43.0798,111.5766,74,2200,581
+788,12458223,0.00826,163610,"Tunisia","TUN","TN",788,"Africa","Northern Africa",true,"Tunisian Republic",155360,80.1894,207.6905,79,27300,7211
+68,12388571,0.01345,1098581,"Bolivia","BOL","BO",68,"South America","South America, Latin America",true,"Plurinational State of Bolivia",1083300,11.436,29.6191,80,8400,2219
+56,11686140,0.00259,30528,"Belgium","BEL","BE",56,"Europe","Western Europe",true,"Kingdom of Belgium",30280,385.9359,999.5741,82,700,184
+192,11194449,-0.00158,109884,"Cuba","CUB","CU",192,"North America","Caribbean",true,"Republic of Cuba",103800,107.8463,279.322,85,11900,3143
+203,10495295,0.00013,78865,"Czech Republic","CZE","CZ",203,"Europe","Eastern Europe",true,"Czech Republic",77198.5,135.9521,352.1158,89,64500,17039
+31,10412651,0.00527,86600,"Azerbaijan","AZE","AZ",31,"Asia","Western Asia",true,"Republic of Azerbaijan",82646,125.991,326.3167,90,10200,2694
+300,10341277,-0.00421,131990,"Greece","GRC","GR",300,"Europe","Southern Europe",true,"Hellenic Republic",128900,80.2271,207.7883,91,255000,67363
+620,10247605,-0.00227,92090,"Portugal","PRT","PT",620,"Europe","Southern Europe",true,"Portuguese Republic",91605.6,111.8666,289.7344,93,673700,177972
+348,10156239,0.01896,93028,"Hungary","HUN","HU",348,"Europe","Eastern Europe",true,"Hungary",91260,111.2891,288.2386,94,318000,84006
+762,10143543,0.01917,143100,"Tajikistan","TJK","TJ",762,"Asia","Central Asia, South Central Asia",true,"Republic of Tajikistan",138790,73.0855,189.2916,95,100,26
+112,9498238,-0.00385,207600,"Belarus","BLR","BY",112,"Europe","Eastern Europe",true,"Republic of Belarus",202980,46.794,121.1964,97,31000,8189
+376,9174520,0.01507,20770,"Israel","ISR","IL",376,"Asia","Western Asia, The Middle East",true,"State of Israel",21640,423.9612,1098.0595,98,20000,5283
+40,8958960,0.00216,83871,"Austria","AUT","AT",40,"Europe","Western Europe",true,"Republic of Austria",82520,108.5671,281.1889,100,248600,65673
+756,8796669,0.00643,41284,"Switzerland","CHE","CH",756,"Europe","Western Europe",true,"Swiss Confederation",39516,222.6103,576.5607,101,79200,20922
+688,7149077,-0.01001,88361,"Serbia","SRB","RS",688,"Europe","Southern Europe",true,"Republic of Serbia",87460,81.7411,211.7095,105,99300,26232
+600,6861524,0.01191,406752,"Paraguay","PRY","PY",600,"South America","South America, Latin America",true,"Republic of Paraguay",397300,17.2704,44.7303,108,1500,396
+417,6735347,0.01579,199951,"Kyrgyzstan","KGZ","KG",417,"Asia","Central Asia, South Central Asia",true,"Kyrgyz Republic",191800,35.1165,90.9518,109,1500,396
+100,6687717,-0.0139,110879,"Bulgaria","BGR","BG",100,"Europe","Eastern Europe",true,"Republic of Bulgaria",108560,61.6039,159.554,110,108000,28530
+795,6516100,0.01327,488100,"Turkmenistan","TKM","TM",795,"Asia","Central Asia, South Central Asia",true,"Turkmenistan",469930,13.8661,35.9132,111,42600,11253
+703,5795199,0.02689,49037,"Slovakia","SVK","SK",703,"Europe","Eastern Europe",true,"Slovak Republic",49035,118.1849,306.099,116,29800,7872
+422,5353930,-0.02474,10452,"Lebanon","LBN","LB",422,"Asia","Western Asia, The Middle East",true,"Lebanese Republic",10230,523.3558,1355.4916,122,9700,2562
+554,5228100,0.00826,270467,"New Zealand","NZL","NZ",554,"Oceania","Australia and New Zealand",true,"New Zealand",263310,19.8553,51.4252,123,285100,75315
+591,4468087,0.0135,75417,"Panama","PAN","PA",591,"North America","Central America, Latin America",true,"Republic of Panama",74180,60.233,156.0036,128,100,26
+191,4008617,-0.00539,56594,"Croatia","HRV","HR",191,"Europe","Southern Europe",true,"Republic of Croatia",55960,71.6336,185.5311,130,72600,19178
+268,3728282,-0.0043,69700,"Georgia","GEO","GE",268,"Asia","Western Asia",true,"Georgia",69490,53.6521,138.9588,132,85600,22613
+498,3435931,0.04978,33846,"Moldova","MDA","MD",498,"Europe","Eastern Europe",true,"Republic of Moldova",32884.6,104.4845,270.6149,134,180100,47577
+858,3423108,0.00009,181034,"Uruguay","URY","UY",858,"South America","South America, Latin America",true,"Oriental Republic of Uruguay",175020,19.5584,50.6562,135,67300,17778
+8,2832439,-0.00348,28748,"Albania","ALB","AL",8,"Europe","Southern Europe",true,"Republic of Albania",27400,103.3737,267.7378,138,17800,4702
+51,2777970,-0.0009,29743,"Armenia","ARM","AM",51,"Asia","Western Asia",true,"Republic of Armenia",28470,97.5753,252.7201,140,9400,2483
+440,2718352,-0.01153,65300,"Lithuania","LTU","LT",440,"Europe","Northern Europe",true,"Republic of Lithuania",62620,43.4103,112.4326,142,4100,1083
+705,2119675,-0.00008,20273,"Slovenia","SVN","SI",705,"Europe","Southern Europe",true,"Republic of Slovenia",20136.4,105.2658,272.6385,149,47300,12495
+428,1830211,-0.01105,64559,"Latvia","LVA","LV",428,"Europe","Northern Europe",true,"Republic of Latvia",62230,29.4104,76.173,151,2300,607
+233,1322765,-0.00249,45227,"Estonia","EST","EE",233,"Europe","Northern Europe",true,"Republic of Estonia",42750,30.9419,80.1394,156,12000,3170
+196,1260138,0.00691,9251,"Cyprus","CYP","CY",196,"Europe","Eastern Europe, The Middle East",true,"Republic of Cyprus",9240,136.3786,353.2205,158,11000,2905
+442,654768,0.01107,2586,"Luxembourg","LUX","LU",442,"Europe","Western Europe",true,"Grand Duchy of Luxembourg",2574.5,254.3282,658.7101,168,9000,2377
+499,626485,-0.00095,13812,"Montenegro","MNE","ME",499,"Europe","Southern Europe",true,"Montenegro",13450,46.5788,120.6391,169,14800,3909
+470,535064,0.00333,316,"Malta","MLT","MT",470,"Europe","Southern Europe",true,"Republic of Malta",320,1672.075,4330.6743,173,1500,396
